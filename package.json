@@ -1,0 +1,19 @@
+{
+  "name": "paex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backgroundgenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pouya-A/paex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pouya-A/paex/issues"
+  },
+  "homepage": "https://github.com/Pouya-A/paex#readme"
+}
